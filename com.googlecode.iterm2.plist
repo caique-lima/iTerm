@@ -97,7 +97,9 @@
 	<key>NSWindow Frame Preferences</key>
 	<string>269 110 924 485 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>49 587 585 451 0 0 1920 1057 </string>
+	<string>280 44 1410 926 0 0 1920 1057 </string>
+	<key>NSWindow Frame iTerm Window 1</key>
+	<string>275 101 1410 926 0 0 1920 1057 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -294,7 +296,7 @@
 			<key>Columns</key>
 			<integer>200</integer>
 			<key>Command</key>
-			<string>source ~/.bashrc</string>
+			<string></string>
 			<key>Cursor Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -316,7 +318,7 @@
 			<key>Cursor Type</key>
 			<integer>1</integer>
 			<key>Custom Command</key>
-			<string>Yes</string>
+			<string>No</string>
 			<key>Custom Directory</key>
 			<string>No</string>
 			<key>Default Bookmark</key>
@@ -903,7 +905,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-10-11T23:46:30Z</date>
+	<date>2015-10-17T16:30:34Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
